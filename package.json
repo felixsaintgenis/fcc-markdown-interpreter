@@ -1,4 +1,5 @@
 {
+  "homepage": "http://felixsaintgenis.github.io/fcc-markdown-interpreter",
   "name": "markdown-interpreter",
   "version": "0.1.0",
   "private": true,
